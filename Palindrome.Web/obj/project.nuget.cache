@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IAnwm2HxOZYMFDybhNgGTze5IzweL3vTI/C10q+0oeRb/3Sx+fQSbzz2aCObPqWBAL93/4JQAlBY1PjGxUsrbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sa3250\\source\\repos\\PalindromeChecker\\Palindrome.Web\\Palindrome.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sa3250\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512",
+    "C:\\Users\\sa3250\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

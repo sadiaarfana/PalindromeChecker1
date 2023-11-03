@@ -1,0 +1,60 @@
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.staticwebassets.runtime.json
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.exe
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.deps.json
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.runtimeconfig.json
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.dll
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.pdb
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.AssemblyInfoInputs.cache
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.AssemblyInfo.cs
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.csproj.CoreCompileInputs.cache
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.RazorAssemblyInfo.cache
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.RazorAssemblyInfo.cs
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets\msbuild.Palindrome.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Palindrome.Web.props
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Palindrome.Web.props
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Palindrome.Web.props
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\scopedcss\bundle\Palindrome.Web.styles.css
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\scopedcss\projectbundle\Palindrome.Web.bundle.scp.css
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.dll
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\refint\Palindrome.Web.dll
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.pdb
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.genruntimeconfig.cache
+C:\Users\sa3250\OneDrive - Corporate Network\Documents\Sadia\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\ref\Palindrome.Web.dll
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\appsettings.json
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.staticwebassets.runtime.json
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.exe
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.deps.json
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.runtimeconfig.json
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.dll
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\bin\Debug\net6.0\Palindrome.Web.pdb
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.AssemblyInfoInputs.cache
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.AssemblyInfo.cs
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.csproj.CoreCompileInputs.cache
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.RazorAssemblyInfo.cache
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.RazorAssemblyInfo.cs
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets\msbuild.Palindrome.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Palindrome.Web.props
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Palindrome.Web.props
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Palindrome.Web.props
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\scopedcss\bundle\Palindrome.Web.styles.css
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\scopedcss\projectbundle\Palindrome.Web.bundle.scp.css
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.dll
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\refint\Palindrome.Web.dll
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.pdb
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\Palindrome.Web.genruntimeconfig.cache
+C:\Developer\MyProject\Palindrome\Palindrome\Palindrome.Web\obj\Debug\net6.0\ref\Palindrome.Web.dll

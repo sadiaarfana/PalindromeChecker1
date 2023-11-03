@@ -1,0 +1,26 @@
+﻿@model List<Palindrome.Web.Models.PalindromeModel>;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+    <div class="container">
+        <h4>Palindrome List</h4>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Palindrome</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.PalindromeString</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+ 
+
