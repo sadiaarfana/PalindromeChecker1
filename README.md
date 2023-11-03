@@ -3,7 +3,7 @@
 **PALINDROME CHECKER **
 
 **************************************************************************************************************************************
-This project is built in .NET 6 Web App that checks if a user input string is a palindrome.
+This project is built in .NET 6 Web App that checks if a user input string is a palindrome.<br/>
 The solution includes:
 • A front-end Web Application project named Palindrome.Web includes the front end UI using HTML,CSS, bootstrap library.
 • The backend Web API project named Palindrome.API using dependency injection and Entity Framework.
